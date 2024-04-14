@@ -1,0 +1,9 @@
+[submodule "Components/mcu_port"]
+	path = Components/mcu_port
+	url = git@github.com:phonght32/mcu_port.git
+[submodule "Components/hd44780"]
+	path = Components/hd44780
+	url = git@github.com:phonght32/hd44780.git
+[submodule "Components/sx1278"]
+	path = Components/sx1278
+	url = git@github.com:phonght32/sx1278.git
